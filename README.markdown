@@ -1,3 +1,6 @@
+Das ist meine erste Applikation mit Ruby on Rails
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
